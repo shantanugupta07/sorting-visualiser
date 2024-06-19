@@ -4,7 +4,7 @@ A web-based sorting visualizer built with HTML, CSS, and JavaScript. This projec
 
 ## Live Demo
 
-Check out the live demo of the Sorting Visualizer [here](https://shantanugupta07.github.io/sorting-visualizer/).
+Check out the live demo of the Sorting Visualizer [here](https://shantanugupta07.github.io/sorting-visualiser/).
 
 ## Features
 
